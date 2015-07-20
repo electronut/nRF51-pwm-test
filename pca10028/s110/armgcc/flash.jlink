@@ -1,0 +1,4 @@
+loadbin _build/nrf51422_xxac_s110.bin 00018000
+r
+g
+exit
